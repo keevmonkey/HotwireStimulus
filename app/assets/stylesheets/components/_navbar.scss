@@ -12,6 +12,23 @@
     color: var(--color-text-header);
   }
 
+  &__menu {
+    font-weight: bold;
+    font-size: var(--font-size-l);
+    margin-left:auto;
+    
+    &__item {
+      padding: var(--space-xxs);
+      color: var(--color-text-body);
+
+      &.active {
+        color: var(--color-primary);
+      }
+    }
+
+    
+  }
+
   &__name {
     font-weight: bold;
     margin-left: auto;
