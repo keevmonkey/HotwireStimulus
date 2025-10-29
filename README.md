@@ -1,5 +1,7 @@
 # README
 
+Tutorial credits: https://www.hotrails.dev/turbo-rails
+
 Prerequisites:
 1. Rails 7.1.5.2
 2. Ruby 3.2.7
